@@ -1,2 +1,2 @@
 # userPayrolApi
-This repo handles api for user payment management
+This repo is an api for payroll system using apollo-server and graphql.
